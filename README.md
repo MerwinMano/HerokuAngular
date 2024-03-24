@@ -16,3 +16,4 @@ Weather application based on the free version of API from Weatherbit.io (I used 
 - clone repository: `git clone <link>`
 - install all dependencies: `npm i`
 - run project and open dev server in browser, using Angular CLI: `ng serve --open`
+s
